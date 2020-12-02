@@ -1,0 +1,22 @@
+{
+  "name": "lcn",
+  "version": "1.0.0",
+  "description": "Local Community Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zankoav/LCN.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Lightning-Soft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zankoav/LCN/issues"
+  },
+  "homepage": "https://github.com/zankoav/LCN#readme"
+}
