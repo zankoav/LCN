@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/zankoav/LCN/issues"
   },
-  "homepage": "https://github.com/zankoav/LCN#readme"
+  "homepage": "https://github.com/zankoav/LCN#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.0"
+  }
 }
