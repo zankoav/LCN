@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8889,
+            "driver": "MySQL",
+            "name": "lcn",
+            "database": "lcn",
+            "username": "root",
+            "password": "8576040spd",
+            "socketPath": "/var/mysql/mysql.sock"
+        }
+    ]
+}

@@ -5,7 +5,8 @@ const connection = mysql.createConnection({
   port: "8889",
   user: "root",
   database: "lcn",
-  password: "8576040spd",
+  password: "root",
+  
 });
 
 // тестирование подключения
